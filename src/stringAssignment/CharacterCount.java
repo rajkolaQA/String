@@ -1,4 +1,4 @@
-package StringAssignment;
+package stringAssignment;
 
 public class CharacterCount {
 
